@@ -1,0 +1,257 @@
+body {
+    margin: 0;
+    padding: 0;
+	background-attachment: fixed;
+}
+
+.index_body{
+	background-image: url(https://mediazink.com/wp-content/uploads/2017/04/Tattoo-Model-Michelle-Cover.jpeg);
+}
+
+.gallery_body{
+	background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-03/1614808290_114-p-fon-dlya-tatu-145.jpg);
+}
+
+.contact_body{
+	background-image: url(https://kartinkinaden.ru/uploads/posts/2021-01/1611954907_55-p-belie-foni-s-eskizami-tatu-55.jpg);
+}
+
+.about_body{
+	background-image: url(https://wallup.net/wp-content/uploads/2018/10/01/329358-tattoo-dark-skull-quote-blood.jpg);
+}
+
+header, div.prod, div.about, .mainnav, .about{
+	background-color: #0d0f11; 
+}
+
+.slider_text>p, .company_name>h1, p.tel, .sec_title, h1, h3, h4, h5, .instagram{
+	color: #fb9902 !important;
+	font-family: 'Montserrat', sans-serif !important;
+}
+
+.company_name>h2,.preim h3, .contact h3, .contact p, .preim p, .navp, .address, p, h2{
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.instagram{
+	margin: auto;
+	font-size: 30px;
+	display: block;
+	border: #fb9902 solid 1px;
+	width: 55%;
+	text-align: center;
+}
+
+.instagram:hover{
+	color: #fff !important;
+	border-color: #fff !important;
+}
+
+a{
+	text-decoration: none !important;
+}
+
+label>img{
+	position: absolute;
+	width: 20%;
+	bottom: 20%;
+	left: -20%;
+	border: #fb9902 solid 3px;
+	border-radius: 80px
+}
+
+.company_name>h1{
+	position: relative;
+	font-size: 60px;
+	top: 8%;
+}
+
+.company_name>h2{
+	position: relative;
+	font-size: 30px;
+	text-align: right;
+	right: 68%;
+	text-shadow: white 1px 1px 8px;
+}
+
+.company_name{
+	height: 160px;
+}
+
+.title_contact{
+	color: #0d0f11 !important;
+	font-size: 30px !important;
+}
+
+h1, h3{
+	font-weight: bold !important;
+}
+
+.preim h3, .about h3, .contact h3{
+	padding-top: 6%;
+	padding-bottom: 3%;
+}
+
+.contact h3, .contact p{
+	padding-left: 25%;
+	text-shadow: black 0px 0px 15px;
+	text-shadow: black 0px 0px 15px;
+}
+
+.contact h3{
+	padding-top: 9%;
+	font-size: 25px;
+}
+
+.contact p{
+	font-size: 22px;
+}
+
+.slider_text>p{
+	padding-top: 50px;
+	padding-left: 40px;
+	display: block;
+	position: absolute;
+	font-size: 40px;
+	font-weight: bolder;
+	z-index: 1;
+	left: 6%;
+	text-shadow: black 0px 0px 3px;
+}
+
+.preim>div{
+	height: 400px;
+}
+
+.preim_col>div{
+	border: solid 1px rgba(255,255,255,0.5);
+	height: 40%;
+	padding: 10px;
+	margin-left: 2%;
+	width: 23%;
+}
+
+.preim_col>div>p{
+	font-size: 18px;
+	font-weight: 300;
+}
+
+.address{
+	margin-top: 20px;
+	text-align: right;
+	font-size: 20px;
+}
+
+.tel{
+	margin-top: 20px;
+}
+
+h5{
+	font-size: 25px !important; 
+}
+
+.sec_title{
+	padding: 50px 0 0 0;
+}
+
+.master{
+	margin-bottom: 20px;
+	box-shadow: #fb9902 0px 0px 8px;
+}
+
+.master_des{
+	margin-bottom: 40px;
+}
+
+.preim{
+	background-color: rgba(13, 15, 26, 0.9);
+}
+
+.contact{
+	background: repeating-linear-gradient(#fb9902 0%, rgba(21, 24, 43, 0.9) 100%);
+	height: 500px;
+}
+
+.about p{
+	font-size: 18px;
+	padding-bottom: 10%;
+}
+
+.img-cover img{
+	max-width: 100%;
+	overflow: hidden !important;
+    max-height: none;
+    width: 350px;
+    min-width: 0px;
+    height: auto;
+}
+
+.img_title p{
+	font-weight: 600;
+	font-size: 27px;
+	width: 80%;
+}
+
+.img_subtitle p{
+	font-size: 18px;
+}
+
+#block-for-gallery, #block-for-slider {
+    width: 100%;
+    height: 400px;
+    margin: 0 auto;
+}
+
+footer{
+	height: 100px;
+	background-color: #0d0f1a;
+	text-align: center;
+	color: white;
+}
+
+footer>div{
+	padding-top: 2%;
+}
+
+.mainnav>div>div>div{
+	margin: 10px;
+	width: 20%;
+	text-align: center;
+	border: #fb9902 solid 2px;
+}
+
+.mainnav>div>div>div:hover, .active{
+	background-color: #fb9902;
+	border: #0d0f11 solid 2px;
+}
+
+.mainnav>div>div{
+	margin: 0 auto;
+}
+
+.navp{
+	margin: 5px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.orange_line_gl, .orange_line{
+	border: #fb9902 solid 1px;
+}
+
+.orange_line{
+	margin: 40px 20px;
+}
+
+.orange_line_gl{
+	margin: 10px 20px;
+}
+
+.third_title{
+	text-align: center;
+}
+
+.third_title>h5{
+	font-size: 30px !important;
+}
